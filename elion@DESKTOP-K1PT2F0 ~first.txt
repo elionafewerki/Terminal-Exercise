@@ -1,0 +1,33 @@
+elion@DESKTOP-K1PT2F0:~/first$ cd ..
+elion@DESKTOP-K1PT2F0:~$ ls
+NewProject  TicTacToe  first
+elion@DESKTOP-K1PT2F0:~$ rm -rf first
+elion@DESKTOP-K1PT2F0:~$ ls
+NewProject  TicTacToe
+elion@DESKTOP-K1PT2F0:~$ mkdir first
+elion@DESKTOP-K1PT2F0:~$ ls
+NewProject  TicTacToe  first
+elion@DESKTOP-K1PT2F0:~$ cd first
+elion@DESKTOP-K1PT2F0:~/first$ touch person.txt
+elion@DESKTOP-K1PT2F0:~/first$ ls
+person.txt
+elion@DESKTOP-K1PT2F0:~/first$ mv person.txt another.txt
+elion@DESKTOP-K1PT2F0:~/first$ ls
+another.txt
+elion@DESKTOP-K1PT2F0:~/first$ cp another.txt copy.txt
+elion@DESKTOP-K1PT2F0:~/first$ ls
+another.txt  copy.txt
+elion@DESKTOP-K1PT2F0:~/first$ rm copy.txt
+elion@DESKTOP-K1PT2F0:~/first$ ls
+another.txt
+elion@DESKTOP-K1PT2F0:~/first$ cp -r first second
+cp: cannot stat 'first': No such file or directory
+elion@DESKTOP-K1PT2F0:~/first$ cp man
+cp: missing destination file operand after 'man'
+Try 'cp --help' for more information.
+elion@DESKTOP-K1PT2F0:~/first$ man cp
+elion@DESKTOP-K1PT2F0:~/first$ man cp
+elion@DESKTOP-K1PT2F0:~/first$ cp -R first second
+cp: cannot stat 'first': No such file or directory
+elion@DESKTOP-K1PT2F0:~/first$ rm -rf second
+elion@DESKTOP-K1PT2F0:~/first$
