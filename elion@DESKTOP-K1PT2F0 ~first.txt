@@ -34,5 +34,12 @@ elion@DESKTOP-K1PT2F0:~/first$
 
 Part 2
 1. to get out you just press Q and to scroll you can hit the enter key or use your up and down arrows. The man stands for manual it gives you the manual list's of a commands.
-2. you can either use control + a or control + e to either move to the beginning of the line or end of the line in the terminal
-3. 
+2. the -l flag lists the files in a format with detail while the a- flag list all the files and folders inculding the hidden ones
+3. you can either use control + a or control + e to either move to the beginning of the line or end of the line in the terminal
+3. Alt + left/Right
+4. control + e to get to the end
+5. control + a to get to the beginning
+6. to delete a word you simply ise control + w
+7. the terminal gives us the command line the program while the shell is what processes the commands.
+8. 
+
