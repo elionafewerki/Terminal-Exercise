@@ -31,3 +31,8 @@ elion@DESKTOP-K1PT2F0:~/first$ cp -R first second
 cp: cannot stat 'first': No such file or directory
 elion@DESKTOP-K1PT2F0:~/first$ rm -rf second
 elion@DESKTOP-K1PT2F0:~/first$
+
+Part 2
+1. to get out you just press Q and to scroll you can hit the enter key or use your up and down arrows. The man stands for manual it gives you the manual list's of a commands.
+2. you can either use control + a or control + e to either move to the beginning of the line or end of the line in the terminal
+3. 
