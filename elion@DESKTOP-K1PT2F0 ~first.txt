@@ -41,5 +41,8 @@ Part 2
 5. control + a to get to the beginning
 6. to delete a word you simply ise control + w
 7. the terminal gives us the command line the program while the shell is what processes the commands.
-8. 
+8. a path that starts from the root route and it'll give a complete location of the file or folder
+9. relative path starts at the current location and note the root route.
+10. a flag can change or enhance commands. example of ones that we used were -r, rm -rf, and -a and ls -l.
+11.  -r will folders and recursively while -f will force the removal.
 
